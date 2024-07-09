@@ -1,0 +1,11 @@
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.deps.json
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.dll
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.pdb
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.AssemblyInfoInputs.cache
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.AssemblyInfo.cs
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.dll
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/refint/Journey.Infrastructure.dll
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.pdb
+/Users/evandrolugli/www/c-sharp/nlw-journey/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/ref/Journey.Infrastructure.dll
